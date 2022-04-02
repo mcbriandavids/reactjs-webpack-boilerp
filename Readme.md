@@ -5,7 +5,7 @@ This set-up may not entail everything you desire, hence you can reconfigure it t
 Technology Stack and Tools
 React,
 React-dom
-The following are dependencies
+The following are dev dependencies
 @babel/core,
 @babel/preset-env,
 @babel/preset-react,
@@ -36,7 +36,9 @@ You will have node installed in your device e.g v16.13.2 was used
 
 Install dependencies
 
-$ npm install
+$ npm install.
+
+
 You can run it using live server on: 127.0.0.1 preferably use $ npm run start for development mode or $npm run build for production mode port: 3001.
 
 License
