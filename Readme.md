@@ -32,7 +32,7 @@ index.html
 index.js
 index.scss
 
-You will node installed in your device e.g v16.13.2 was used
+You will have node installed in your device e.g v16.13.2 was used
 
 Install dependencies
 
